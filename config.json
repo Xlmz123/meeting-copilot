@@ -1,0 +1,19 @@
+{
+  "your_name": "Me",
+  "vault_path": "~/Documents/MyVault",
+  "session_folder": "Journal/Calls",
+  "pinned_folders": [
+    "00 Me"
+  ],
+  "transcriber": "groq",
+  "listen_to_mic": false,
+  "auto_answer": true,
+  "screen_watch": true,
+  "screen_monitor": 1,
+  "overlay": {
+    "width": 430,
+    "height": 560,
+    "opacity": 0.93,
+    "font_size": 12
+  }
+}

@@ -1,0 +1,8 @@
+PyAudioWPatch>=0.2.12
+numpy
+requests
+mss
+Pillow
+pynput
+# optional, for "transcriber": "local" (offline, no rate limits):
+# faster-whisper
